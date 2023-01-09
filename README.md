@@ -15,6 +15,10 @@ This is my full stack todo app, built with Mongo DB, Express JS, React JS, Node 
 
 ## Video
 
+
+https://user-images.githubusercontent.com/109405477/211326725-13e22f4f-8851-4737-bc3a-5cc716d62838.mp4
+
+
 ## 🚀 About Me
 
 I'm Yash Kumar and i am aspiring to be a Full Stack Web Developer.
